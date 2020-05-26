@@ -1,0 +1,12 @@
+//このソースコードはhttps://otp-ropsten-test.herokuapp.com/で使われる
+//ropstenテストネット上に形成されたERC721規格から派生したノンファンジブルトークンのコードです。
+
+//以下のコントラクトアドレスにデプロイされています
+
+//ROPSTEN testnet
+
+//OTPAUTH;;;0x60fAe5Ffb1Af8f68e65AC2402d780B65b9Ff958E
+//https://ropsten.etherscan.io/token/0x60fae5ffb1af8f68e65ac2402d780b65b9ff958e 
+
+//OTPGEN;;;0x45Cb6095e6c79CF2626F28F588104D5ffC0D5aA9
+//https://ropsten.etherscan.io/token/0x45cb6095e6c79cf2626f28f588104d5ffc0d5aa9 
